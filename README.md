@@ -11,3 +11,8 @@ Are you an avid viewer looking for top-notch content on Amazon Prime? 🍿 Look 
 📅 Start Date and End Date: Provided information on the inception and culmination of titles, allowing you to track their availability on the platform.
 With these compelling insights, you can navigate Amazon Prime's vast library with ease, ensuring you never miss out on captivating entertainment tailored to your preferences. Whether you're in the mood for thrilling dramas, hilarious comedies, or gripping documentaries, Amazon Prime has something for everyone! Explore, indulge, and elevate your viewing experience today. Happy streaming................!
 🚀📺 #AmazonPrime #Streaming #PowerBI #DataInsights
+
+
+
+
+![Prime Data Visuvalization](https://github.com/Vini28122001/Amazon-Prime-Titles-insights-/assets/149174627/b954fc69-65ce-4f57-bd3d-fd516fd29eba)
